@@ -1,0 +1,46 @@
+{
+    "Sun": {
+        "id": 0,
+        "name": "Sun",
+        "mass": 1.9885e30,
+        "radius": 4.379e6,
+        "temperature": {
+            "min": 5772,
+            "mean": 5e6,
+            "max": 1.57e7
+        },
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "velocity": {
+            "x": 0,
+            "y": 0
+        },
+        "colour": "#FFFF00",
+        "children": {
+            "Earth": {
+                "id": 3,
+                "name": "Earth",
+                "mass": 5.972e24,
+                "radius": 6371,
+                "temperature": {
+                    "min": 0,
+                    "mean": 0,
+                    "max": 0
+                },
+                "distance_to_parent": 1.496e8,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "velocity": {
+                    "x": 0,
+                    "y": 0
+                },
+                "colour": "#0000FF",
+                "children": null
+            }
+        }
+    }
+}

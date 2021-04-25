@@ -1,0 +1,35 @@
+{
+    "name": "gravityattack",
+    "version": "0.1.0",
+    "description": "Gravity attack game prototype, n-body simulation, collision simulation",
+    "main": "sketch.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@timohausmann/quadtree-js": "^1.2.4"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JCalebBR/GravityAttack.git"
+    },
+    "keywords": [
+        "gravityattack",
+        "n-body",
+        "simulation",
+        "collision",
+        "simulation",
+        "gravity",
+        "physics"
+    ],
+    "author": "JCalebBR",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/JCalebBR/GravityAttack/issues"
+    },
+    "homepage": "https://github.com/JCalebBR/GravityAttack#readme"
+}

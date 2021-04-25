@@ -1,0 +1,14 @@
+# VS Code
+/.vscode
+
+# NPM
+/node_modules
+
+# p5.js
+p5-test.js
+p5.code-workspace
+p5.d.ts
+p5.global-mode.d.ts
+p5.js
+
+/jsconfig.json
